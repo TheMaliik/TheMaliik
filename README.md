@@ -2,7 +2,7 @@
 
 **🌟 Software Engineering Student | 💻 Web & DevOps Enthusiast | 🤖 AI Dreamer**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=TheMaliik&color=blue&style=flat-square)  
 
 Welcome to my GitHub profile! I'm currently studying at the **Ecole Supérieure Privée d'Ingénierie et de Technologies**, where I'm diving deep into the world of **software engineering** and turning my passion for technology into reality.  
 
