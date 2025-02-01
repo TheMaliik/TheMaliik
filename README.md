@@ -20,22 +20,7 @@ Welcome to my GitHub profile! I'm currently studying at the **Ecole Supérieure 
 
 ---
 
-## 📈 GitHub Stats  
 
-![Melek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
-
-
-
-## 🌟 Fun Facts  
-
-- 🧩 I love solving puzzles, whether they’re in code or real life.  
-- 💡 My favorite tech quote: **“First, solve the problem. Then, write the code.” – John Johnson**  
-
-
----
 
 ## 🤝 Let’s Connect  
 
