@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm currently studying at the **Ecole Supérieure 
 - 🛠️ **Technical Skills**:  
   - **Expertise**: MERN Stack, Symfony, Angular, Spring Boot  
   - **Familiarity**: .NET, Docker, DevOps practices, CI/CD pipelines, Jenkins  
-  - **Tools & Platforms**: [Add specific tools like Git, Kubernetes, or any IDEs you prefer]  
 - 🤝 **Open to Collaborations**: I’m always up for interesting projects in **web development**, **DevOps**, or **AI research**.  
 
 ---
