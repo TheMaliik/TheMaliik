@@ -1,25 +1,50 @@
-# 👋 Hey there! I'm Melek Guesmi  
+# 👋 Hey there! I'm **Melek Guesmi**
 
-**🌟 Software Engineering Student | 💻 Web & DevOps Enthusiast | 🤖 AI Dreamer**  
+**💻 Computer Engineering Student | 🚀 Web & DevOps Enthusiast | 🤖 AI Explorer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheMaliik&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=TheMaliik&color=blue&style=flat-square)
 
-Welcome to my GitHub profile! I'm currently studying at the **Ecole Supérieure Privée d'Ingénierie et de Technologies**, where I'm diving deep into the world of **software engineering** and turning my passion for technology into reality.  
+Welcome to my GitHub profile!  
+I’m a **Computer Engineering Student at ESPRIT (École Supérieure Privée d’Ingénierie et de Technologies)**, passionate about **Web Development**, **DevOps**, and **AI-driven systems**.  
+Currently, I’m looking for a **6-month final-year internship (PFE)** starting **December 2025**, where I can apply my skills to build scalable, efficient, and innovative solutions.
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **Current Status**: Software engineering student with a knack for building efficient and scalable systems.  
-- 🌐 **Interests**: Web development, DevOps, and exploring the possibilities of AI.  
-- 🛠️ **Technical Skills**:  
-  - **Expertise**: MERN Stack, Symfony, Angular, Spring Boot  
-  - **Familiarity**: .NET, Docker, DevOps practices, CI/CD pipelines, Jenkins  
-- 🤝 **Open to Collaborations**: I’m always up for interesting projects in **web development**, **DevOps**, or **AI research**.  
+- 🎯 Passionate about **web technologies**, **cloud infrastructures**, and **automation**.  
+- 🧠 Strong foundation in **MERN stack**, **Spring Boot**, and **DevOps tools** like **Docker, Jenkins, Kubernetes, and AWS**.  
+- 🤝 Enjoy collaborating in agile environments to deliver impactful projects.  
+- 💬 Always curious to explore new technologies — especially **AI**, **machine learning**, and **data-driven systems**.
 
 ---
 
+## 🛠️ Tech Stack  
 
+**Languages:** JavaScript · Java · Python  
+**Frameworks:** React · Angular · Express.js · Spring Boot · Symfony  
+**DevOps & Cloud:** Docker · Jenkins · Kubernetes · AWS · Azure · Prometheus · Grafana · SonarQube  
+**Databases:** MongoDB · MySQL · PostgreSQL  
+**Tools:** Git · GitHub · CI/CD · Agile/Scrum  
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheMaliik&theme=onestar&no-frame=true&margin-w=10&margin-h=10" alt="Melek Guesmi's GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMaliik&show_icons=true&theme=radical" alt="Melek's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaliik&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
 
 ## 🤝 Let’s Connect  
 
@@ -32,4 +57,4 @@ Welcome to my GitHub profile! I'm currently studying at the **Ecole Supérieure 
 ### ✨ Motto  
 > “Keep pushing limits, one line of code at a time.”  
 
-Thanks for stopping by! Feel free to explore my repositories, or let's collaborate on something amazing! 🚀  
+Thanks for stopping by — feel free to explore my projects or reach out for collaborations! 🚀  
