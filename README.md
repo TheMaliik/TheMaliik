@@ -21,11 +21,14 @@ Currently, I’m looking for a **6-month final-year internship (PFE)** starting 
 
 ## 🛠️ Tech Stack  
 
-**Languages:** JavaScript · Java · Python  
-**Frameworks:** React · Angular · Express.js · Spring Boot · Symfony  
-**DevOps & Cloud:** Docker · Jenkins · Kubernetes · AWS · Azure · Prometheus · Grafana · SonarQube  
-**Databases:** MongoDB · MySQL · PostgreSQL  
-**Tools:** Git · GitHub · CI/CD · Agile/Scrum  
+- **Programming Languages:** JavaScript · Java · Python  
+- **Frameworks and Libraries:** React · Angular · Express.js · Spring Boot · Spring Batch · Odoo  
+- **Web Environment / Technologies:** Node.js · HTML · CSS  
+- **Databases:** MySQL · MongoDB · PostgreSQL  
+- **Cloud & DevOps:** AWS · Azure · Docker · DockerHub · Jenkins · Kubernetes · Prometheus · Grafana · Nexus · SonarQube  
+- **Development Tools:** Git · GitHub  
+- **Methodologies:** Agile · Scrum · DevOps  
+- **Artificial Intelligence:** Machine Learning (classification, regression) · Natural Language Processing (NLP) · Data Analysis · AI Model Design and Deployment  
 
 ---
 
